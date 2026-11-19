@@ -1,0 +1,4 @@
+,accuracy,precision,recall,f1,roc_auc
+TFIDF+LogReg,0.9853,0.994,0.9735,0.9837,0.9982
+BiLSTM+Attn,0.968,0.9773,0.9515,0.9642,0.995
+BERT,0.9967,0.9985,0.9941,0.9963,0.9999
